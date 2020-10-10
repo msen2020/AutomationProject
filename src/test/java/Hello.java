@@ -6,6 +6,9 @@ public class Hello {
         //MORE CHANGES ARE COMING
         // I am ready to commit this
 
+        // EU3 is Awesome!!!
+        //EU3 is learning how to use GIT from INTELLIJ
+
 
     }
 }
